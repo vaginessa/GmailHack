@@ -1,2 +1,2 @@
 # GmailHack
- Ataque de fuerza bruta Este método se trata de prueba y error, donde el atacante, provisto con algún software automatizado, puede probar miles de combinaciones posibles de diferentes caracteres y longitudes para tratar de abrir la autenticación del usuario, hasta que da con la contraseña correcta.
+Brute force attack This method is about trial and error, where the attacker, equipped with some automated software, can try thousands of possible combinations of different characters and lengths to try to open the user's authentication, until it hits the correct password .
